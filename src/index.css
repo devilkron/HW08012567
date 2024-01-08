@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@100;200;300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  /* font-family: 'Lato'; */
+  /* font-weight: 400; */
+  
+}
+/* .app{
+  background: salmon;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+.todo-app {
+  background: pink;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.dashboard{
+  background: blueviolet;
+  color: lightblue;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-inline: 8px ;
+  border-radius: 5px;
+}
+.form-add-todo{
+  background: purple;
+  padding: 8px 16px;
+  display: flex;
+  gap: 3px;
+  border-radius: 5px;
+}
+.form-add-todo > input{
+  flex-grow: 8;
+  background: pink;
+  padding: 4px 8px;
+}
+
+.form-add-todo > button{
+  flex-grow: 2;
+  font-weight: 700;
+  
+}
+
+.todo-container{
+  border: 1px solid black;
+  padding: 8px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.todo-item{
+  background-color: violet;
+  padding: 4px 10px;
+  display: flex;
+  justify-content: space-between;
+  font-size: xx-large;
+  border-radius: 5px;
+}
+.todo-item .btn-opt{
+  display: flex;
+  gap: 4px;
+}
+.todo-item .btn-opt a {
+  border: 3px dashed sandybrown;
+  padding: 2px 4px;
+  cursor: pointer;
+} */
